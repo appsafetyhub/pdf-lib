@@ -1,8 +1,8 @@
-@pdfme/pdf-lib  
+@appsafetyhub/pdf-lib  
 this version is forked from [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib).  
-@pdfme/pdf-lib compatible with [foliojs/fontkit](https://github.com/foliojs/fontkit) v2
+@appsafetyhub/pdf-lib compatible with [foliojs/fontkit](https://github.com/foliojs/fontkit) v2
 
-To fix this issue -> [Character corruption occurs when enabling subsets for some Japanese and Chinese fonts #162](https://github.com/pdfme/pdfme/issues/162)
+To fix this issue -> [Character corruption occurs when enabling subsets for some Japanese and Chinese fonts #162](https://github.com/appsafetyhub/appsafetyhub/issues/162)
 
 ```js
 import { PDFDocument, rgb } from 'pdf-lib'
